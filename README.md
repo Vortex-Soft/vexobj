@@ -2,7 +2,6 @@
 
 Self-hosted S3-compatible object storage with media processing, server-side encryption, async replication, and a SQLite metadata store — all in a single ~14 MB Rust binary.
 
-→ **Landing page**: https://vortex-soft.github.io/vexobj/
 → **Release**: [v0.1.0](https://github.com/vortex-soft/vexobj/releases/tag/v0.1.0) (Linux amd64, macOS arm64, Docker `ghcr.io/vortex-soft/vexobj:latest`)
 
 ### Drop-in object storage for the fediverse
